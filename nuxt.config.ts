@@ -30,7 +30,7 @@ export default defineNuxtConfig({
 
       ]
     },
-    baseURL: '/profile/',
+    baseURL: '/',
   },
 
   postcss: {
