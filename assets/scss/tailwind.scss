@@ -1,0 +1,14 @@
+@use "custom/fonts";
+@use "custom/general";
+@use "components/buttons";
+
+@use "custom/structure/topnav";
+@use "custom/structure/footer";
+
+@use "custom/pages/helper";
+@use "custom/pages/contact";
+@use "custom/pages/swiper-slider";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

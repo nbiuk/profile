@@ -1,0 +1,19 @@
+/*********************************/
+/*             General           */
+/*===============================*/
+html {
+   /* @apply scroll-smooth font-poppins;*/
+    @apply scroll-smooth font-rajdhani;
+}
+
+body {
+    @apply text-[15px] text-black;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, p, ul, li, ol, a, span, label, small, button {
+    @apply font-rajdhani;
+}
+
+p {
+    @apply leading-relaxed;
+}
