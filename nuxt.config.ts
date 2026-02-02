@@ -11,8 +11,8 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      title: 'Nino Biuk - GitLab Page',
-      titleTemplate: 'Nino Biuk - GitLab Page',
+      title: 'Nino Biuk',
+      titleTemplate: 'Nino Biuk',
       htmlAttrs: { lang: 'en', dir: 'ltr', class: "dark scroll-smooth" },
       meta: [
         { charset: 'utf-8' },
