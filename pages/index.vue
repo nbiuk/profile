@@ -119,7 +119,7 @@
                     <li>Security Groups & NACL</li>
                     <li>CIDR</li>
                     <li>NAT-Gateways</li>
-                    <li>Terraform für automatisierte und nachvollziehbare Infras, provider, GitOps</li>
+                    <li>Terraform für automatisierte und nachvollziehbare Infras, provider</li>
                   </ul>
                 </li>
               </ul>
