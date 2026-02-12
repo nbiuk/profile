@@ -92,7 +92,7 @@
                     <li>Grundlegende git-Kommandos (add, commit, pull, push, fetch, checkout, branch, log, history...)</li>
                     <li>Verschiedene Flows wie GitLab Flow</li>
                     <li>Merge und Rebase</li>
-                    <li>GitLab CI/CD & Umgebungsvariablen</li>
+                    <li>GitLab CI, GitHub Actions, Umgebungsvariablen, Secrets, OIDC</li>
                     <li>Registry, SemVer, Release Bereitstellung</li>
                   </ul>
                 </li>
