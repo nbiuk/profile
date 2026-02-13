@@ -17,7 +17,7 @@
     <main class="w-full lg:flex-1 p-10 text-slate-400">
       <div class="mb-10">
         <h1 class="text-4xl lg:text-6xl font-semibold mb-5">Vorwort</h1>
-        <p style="line-height: 2em">Diese Seite gibt einen Überblick über meinen technischen Fokus und meine Arbeitsweise.
+        <p style="line-height: 2em">Diese Seite zeigt einen Überblick über meinen technischen Fokus und meine Arbeitsweise.
           In den letzten Jahren habe ich mich vom Full-Stack-Entwickler gezielt in Richtung Backend Engineering weiterentwickelt.
           <br>Mit wachsender Erfahrung wurde schnell klar, dass moderne, skalierbare Software ohne ein solides Verständnis von Architektur, Infrastruktur und Deployment nicht auskommt.
           Daraus entwickelte sich über die Jahre ein klarer Fokus auf DevOps-Themen.
