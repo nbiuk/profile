@@ -6,7 +6,7 @@
       <p class="text-2xl text-left lg:text-center mb-4">Steckbrief</p>
       <ul style="line-height: 1.8rem;">
         <li><i class="mdi mdi-laptop me-2"></i>Software & DevOps Engineer</li>
-        <li><i class="mdi mdi-calendar-blank me-2"></i>Beruflich tätig seit 2014</li>
+        <li><i class="mdi mdi-calendar-blank me-2"></i>Beruflich tätig seit 2012</li>
         <li><i class="mdi mdi-monitor me-2"></i>OS: Linux, macOS</li>
         <li><i class="mdi mdi-code-braces me-2"></i>IDE: Primär PHPStorm</li>
         <li><i class="mdi mdi-earth me-2"></i>HR / DE / EN / NL</li>
